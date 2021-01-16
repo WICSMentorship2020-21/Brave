@@ -1,2 +1,1 @@
-# Starter Website
-Starter website for each mentorship family to initially clone. You can find the walkthroughs in the walkthroughs folder :)
+This repo contains team Brave's mentorship family memories. :)
